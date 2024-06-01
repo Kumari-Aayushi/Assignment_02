@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Responsive landing page?",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A responsive landing page adjusts its layout and design to fit different screen sizes, providing an optimal viewing experience for users on various devices.",
+    url: "https://drive.google.com/file/d/13Gcrv5e4vahU27aFcaebOMtBdR1j3Yqw/view?usp=drive_link",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Stopwatch application",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A stopwatch application is a tool that allows you to measure time accurately, helping you track durations for various activities or events.",
+    url: "https://drive.google.com/file/d/17b_dAB1DSX73m75BZiipV3fgJx3EL074/view?usp=drive_link",
   },
   {
-    title: "My Resume Site",
+    title: "Personal Portfolio website",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A personal portfolio website showcases your work, projects, and skills to potential employers or clients. It's like your online resume and portfolio combined in one place!.",
+    url: "https://drive.google.com/file/d/1IoHWbJcW81gXV4TsxhG9O27cNG0xKx20/view?usp=drive_link",
   },
   {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    title: " Tic-Tac-Toe App",
+  description:
+      "A tic-tac-toe app is a fun game where two players take turns marking Xs and Os on a grid to try and get three in a row. It's a classic game of strategy and quick thinking!",
+    url: "https://drive.google.com/file/d/1ThV0thUcjevfyQ5Ew9SjhyddjFnAW3p1/view?usp=drive_link",
   },
 ];
 
